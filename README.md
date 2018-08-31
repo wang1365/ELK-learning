@@ -2,10 +2,10 @@
 全文检索ElasticSearch, Logstash, Kibana学习
 
 ## ElasticSearch
-基于Lucene实现的全文检索引擎
+基于Lucene实现的全文检索引擎，参考 [官方文档](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) .
 
 ## Logstash
-支持多种数据输入输出的数据抽取工具
+支持多种数据输入输出的数据抽取工具，参考 [官方文档](https://www.elastic.co/guide/en/logstash/current/index.html) .
 
 1. Kafka输入，ES输出
 ``` Ruby
